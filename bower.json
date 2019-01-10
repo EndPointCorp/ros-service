@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#1.9 - 2",
-    "ros-websocket": "EndPointCorp/ros-websocket#82534da42edee0f0509961cbb1215efb59f251c5"
+    "ros-websocket": "EndPointCorp/ros-websocket#72b6f6d1deccb09f167b86e8687182fbd79cccbd"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
